@@ -88,6 +88,7 @@ const RightMenu = styled.div`
 display: flex;
 align-items: center;
 justify-self: end;
+grid-column:3;
 a {
   font-weight: 600;
   text-transform: uppercase;
